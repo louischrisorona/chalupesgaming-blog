@@ -37,7 +37,7 @@ const notFound = () => {
             fill="currentColor"
           />
         </svg>
-        <p>Either you are in a wrong page or you have lost. Lets go back <Link to="/">home</Link> safely</p>
+        <p>You may have typed the URL incorrectly or tried to access a page that no longer exists. Let me take you to my<Link to="/">home page</Link>.</p>
       </div>
     </Layout>
   )
